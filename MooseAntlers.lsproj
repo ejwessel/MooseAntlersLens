@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "b96e2229-392d-4394-8355-00816b5a7f43",
     "document_id": "4IgaEfjeux0ofU9aHzUe",
     "original_document_id": "4IgaEfjeux0ofU9aHzUe",
     "version": "23",
-    "lastChanged": "1585414789467",
+    "lastChanged": "1585415524771",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -79,7 +79,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "1dbebe9540f3c84caac1618598406865",
+            "icon_hash": "06c649151ec457c61db716c7aa452eb8",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
