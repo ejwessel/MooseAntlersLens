@@ -1,0 +1,723 @@
+{
+    "lens_id": "b96e2229-392d-4394-8355-00816b5a7f43",
+    "document_id": "4IgaEfjeux0ofU9aHzUe",
+    "original_document_id": "4IgaEfjeux0ofU9aHzUe",
+    "version": "23",
+    "lastChanged": "1585529707772",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Antlers Icon"
+                    ],
+                    [
+                        "Credit Alpha"
+                    ],
+                    [
+                        "NOVELO_MOOSEANTLERS"
+                    ],
+                    [
+                        "NOVELO_MOOSEANTLERS",
+                        "Animations"
+                    ],
+                    [
+                        "NOVELO_MOOSEANTLERS",
+                        "Materials"
+                    ],
+                    [
+                        "NOVELO_MOOSEANTLERS",
+                        "Materials",
+                        "Mat"
+                    ],
+                    [
+                        "NOVELO_MOOSEANTLERS",
+                        "Meshes"
+                    ],
+                    [
+                        "NOVELO_MOOSEANTLERS",
+                        "Meshes",
+                        "Symmetry"
+                    ],
+                    [
+                        "NOVELO_MOOSEANTLERS",
+                        "NOVELO_MOOSEANTLERS"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "06c649151ec457c61db716c7aa452eb8",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Moose Antlers",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1585414335819749:6716"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1585414392055808:7052",
+                    "name": "Files\/File3.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1585414392067997:7062",
+                    "name": "Files\/File4",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1585414392242300:7093",
+                    "name": "NOVELO_MOOSEANTLERS",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1585414650340245:9094",
+                    "name": "Files\/File9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1585414739049192:31516",
+                    "name": "Files\/File11.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1585414683435658:9833",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1585414335819503:6715",
+                "4": "1585414335819749:6716",
+                "5": "1585414335823374:6736",
+                "6": "1585414392384649:7121",
+                "7": "1585414392385074:7127",
+                "8": "1585414683399916:9632",
+                "9": "1585414683412212:9697",
+                "10": "1585414683435480:9832"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.mesh"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.lsmat"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.oprfb"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.obj"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "NOVELO_MOOSEANTLERS.obj"
+                    },
+                    {
+                        "k": "9",
+                        "v": "..\/AdditionalFiles\/NOVELO_MOOSEANTLERS\/Materials"
+                    },
+                    {
+                        "k": "10",
+                        "v": "..\/AdditionalFiles\/NOVELO_MOOSEANTLERS\/Materials\/Mat.lsmat"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Antlers Icon.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Credit Alpha.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "8",
+                        "v": "3a059d16c82bb944d268bbadb5af7a50"
+                    },
+                    {
+                        "k": "10",
+                        "v": "a56cf4b77efaf1206e34def1e69ce1f1"
+                    },
+                    {
+                        "k": "11",
+                        "v": "02aebdc2f38b30cbd8bd943999f389bc"
+                    },
+                    {
+                        "k": "12",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-03-29T20:55:03",
+                        "name": "Public",
+                        "hash": "f1f2ab754c8dace15a08b752bcc6b4c9",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-29T20:52:27",
+                                "name": "Antlers Icon.png",
+                                "hash": "02aebdc2f38b30cbd8bd943999f389bc",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-29T20:52:27",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-29T20:52:27",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-29T20:52:27",
+                                "name": "NOVELO_MOOSEANTLERS.obj",
+                                "hash": "3a059d16c82bb944d268bbadb5af7a50",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-29T20:55:03",
+                                "name": "Credit Alpha.js",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-03-29T20:52:27",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "NOVELO_MOOSEANTLERS",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "\/Users\/ejwessel\/Downloads\/archive (1)\/NOVELO_MOOSEANTLERS.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Mat",
+                                    "v": "1585414392067997:7062"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Symmetry",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "uid": "1585414392055808:7052",
+                                        "fileId": "3",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-WnstOm\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "9",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Mat",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "11",
+                                        "dependency": "0",
+                                        "uid": "1585414392067997:7062",
+                                        "fileId": "4",
+                                        "originalId": "5",
+                                        "publicId": "10",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "NOVELO_MOOSEANTLERS",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "12",
+                                "dependency": "1",
+                                "uid": "1585414392242300:7093",
+                                "fileId": "6",
+                                "originalId": "8",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Antlers Icon",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1585414650340245:9094",
+                        "fileId": "9",
+                        "originalId": "10",
+                        "publicId": "11",
+                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-03-28 at 12.57.14 PM.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Credit Alpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1585414739049192:31516",
+                        "fileId": "11",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12",
+                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-WnstOm\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1585414739049192:31516",
+                        "path_list": [
+                            "Credit Alpha"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1585414392384649:7121",
+                        "v": {
+                            "prefab": "1585414392242300:7093",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1585414392240654:7077",
+                                    "v": "1585414392384649:7121"
+                                },
+                                {
+                                    "k": "1585414392241054:7079",
+                                    "v": "1585414392385074:7127"
+                                },
+                                {
+                                    "k": "1585414392241334:7081",
+                                    "v": "1585414392385372:7129"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1585414392242300:7093",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1585414392240654:7077"
+                        },
+                        {
+                            "k": [
+                                "Symmetry.1"
+                            ],
+                            "v": "1585414392241054:7079"
+                        },
+                        {
+                            "k": [
+                                "Symmetry.1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1585414392241334:7081"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
